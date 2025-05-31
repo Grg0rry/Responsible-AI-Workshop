@@ -1,4 +1,4 @@
-# NLP-Workshop
+# Responsible-AI-Workshop
 Part of a workshop for Build With AI 2025 by GDG Kuala Lumpur. 
 **Topic: Responsible AI: Safeguarding with Gemini.**
 
